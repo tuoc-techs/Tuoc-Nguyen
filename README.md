@@ -86,7 +86,7 @@ Welcome to my GitHub repository! I am a passionate and experienced senior softwa
 
 - **LinkedIn:** (https://www.linkedin.com/in/adan-bocardo-alvarez-a47128320/)
 - **GitHub:** (https://github.com/AdanBocardoAlvarez)
-- **Email:** (mailto:adanbocardo@gmail.com)
+- **Email:** (mailto:adanbocardoalvarez@gmail.com)
 
 ---
 
