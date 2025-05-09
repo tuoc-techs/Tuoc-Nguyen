@@ -1,4 +1,4 @@
-# [Adan Bocardo Alvarez] - Senior Software Developer
+# [Tuoc Nguyen] - Senior Software Developer
 
 Welcome to my GitHub repository! I am a passionate and experienced senior software developer with a strong background in Full Stack, Android App, and AI development. My expertise spans across multiple technologies and platforms, enabling me to deliver robust and scalable solutions.
 
@@ -85,8 +85,8 @@ Welcome to my GitHub repository! I am a passionate and experienced senior softwa
 ## 🌍 Let's Connect
 
 - **LinkedIn:** (https://www.linkedin.com/in/adan-bocardo-alvarez-a47128320/)
-- **GitHub:** (https://github.com/AdanBocardoAlvarez)
-- **Email:** (mailto:adanbocardoalvarez@gmail.com)
+- **GitHub:** (https://github.com/tuoc-techs)
+- **Email:** (mailto:tuoc0813@gmail.com)
 
 ---
 
